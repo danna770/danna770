@@ -32,7 +32,7 @@ Relevamientos y análisis de empresas presentados como sitios web.
 
 | Proyecto | Qué es | Tecnologías | Links |
 |---|---|---|---|
-| **Portafolio de Ingeniería de Requerimientos** | Los 19 trabajos de la materia en un sitio web: el TP integrador "Podcast del Ingeniero" (caso Havanna), 11 trabajos individuales y 5 grupales sobre elicitación, especificación SRS, LEL, casos de uso e historias de usuario, más mis resúmenes de los parciales. | HTML · CSS · JavaScript | [Código](https://github.com/danna770/portfolio-ingenieria-requerimientos) · [Ver sitio](https://danna770.github.io/portfolio-ingenieria-requerimientos/) |
+| **Portafolio de Ingeniería de Requerimientos** | Los 19 trabajos de la materia en un sitio web: el TP integrador "Podcast del Ingeniero" (caso Havanna), 11 trabajos individuales y 5 grupales sobre elicitación, especificación SRS, LEL, casos de uso e historias de usuario, más mis resúmenes de los parciales. | HTML · CSS · JavaScript |  [Ver sitio](https://danna770.github.io/portfolio-ingenieria-requerimientos-/portfolio-ir-graziano-listo%20(1)/) |
 
 ---
 
