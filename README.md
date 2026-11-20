@@ -1,6 +1,6 @@
 # Hola, soy Dana Graziano 👋
 
-Estudiante de **Ingeniería en Sistemas Informáticos**. Acá reúno los sitios web que fui construyendo durante la carrera, organizados por tipo de proyecto.
+Estudiante de **Ingeniería en Sistemas Informáticos**. Acá reúno los sitios web que fui construyendo con IA.
 
 ---
 
