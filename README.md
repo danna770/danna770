@@ -11,6 +11,7 @@ Plataformas interactivas que armé para estudiar y repasar materias.
 | Proyecto | Qué es | Tecnologías | Links |
 |---|---|---|---|
 | **Preparador SO y Compiladores** | Plataforma de estudio para Sistemas Operativos y Compiladores (unidades 1, 2, 5 y 6): simuladores de planificación de CPU, juegos interactivos, simulador de examen y seguimiento del progreso. | HTML · CSS · JavaScript · localStorage | [Código](https://github.com/danna770/SO_p1) · [Ver sitio](https://danna770.github.io/SO_p1/) |
+| **Lector Bilingüe EN⇄ES** | Traductor y compañero de lectura en inglés: traducción en vivo, definiciones, preposiciones, pronunciación, vocabulario por secciones y quiz de práctica. Sincronización opcional entre dispositivos (cada usuario con su propio token de GitHub). | HTML · CSS · JavaScript · Web Speech API · GitHub Gist API | [Código](https://github.com/danna770/traductorBilingue) · [Ver sitio](https://danna770.github.io/traductorBilingue/) |
 | **IBM AI Fundamentals — Flashcards** | Flashcards con los conceptos clave de los cursos *Machine Learning Methods and Tools* y *Artificial Intelligence Fundamentals*, con progreso guardado. | HTML · CSS · JavaScript · localStorage | [Código](https://github.com/danna770/AI_Concepts) · [Ver sitio](https://danna770.github.io/AI_Concepts/) |
 
 ## 📊 Análisis de negocio
